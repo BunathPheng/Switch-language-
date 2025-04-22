@@ -1,0 +1,12 @@
+{
+    "HomePage": {
+      "title": "សួ​ស្តី​​ ពីលោក",
+      "about": "តោះ​ទៅ HomePage"
+    },
+    "Navbar": {
+        "home": "ទំព័រដើម",
+        "about": "អំពីយើង",
+        "services": "សេវាកម្ម",
+        "contact": "ទំនាក់ទំនង"
+      }
+  }
